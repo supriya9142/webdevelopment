@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1,
+h2,
+ol,
+ul{
+    color: black;
+    text-align: center;
+    background-color: blueviolet;
+}
+li{
+    background-color: blue;
+    color: brown;
+    text-align: center;
+
+}

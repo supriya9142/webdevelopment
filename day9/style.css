@@ -1,0 +1,11 @@
+h1{
+    text-shadow: 2px 2px 2px red;
+}
+div{
+    background-color: blue;
+    color: black;
+    text-align: center;
+    width: 50%;
+    height: 100px;
+    box-shadow: 2px 2px 2px violet;
+}

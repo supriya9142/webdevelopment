@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+}
+
+div{
+    background-color:lightblue;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 80px;
+    color: beige;
+    border-radius: 20px;
+}
+
+h1{
+    background-color: blue;
+    color: white;
+}
+form{
+    background-color: pink;
+    color: aqua;
+}
